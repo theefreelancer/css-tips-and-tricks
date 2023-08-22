@@ -1,7 +1,7 @@
 ## List summary of the CSS topics and videos
 * [Mastering CSS](https://www.youtube.com/watch?v=6XGCCxiIUYc)
 1. Box Model basics
-2.Layouts and CSS
+2. Layouts and CSS
 Flexbox
 Grid 
 Floats 
